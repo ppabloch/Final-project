@@ -146,6 +146,7 @@ h2{
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 40px;
+    text-align: center;
 }
 
 @media screen and (max-width:768px){
